@@ -53,3 +53,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+destination: docs
+exclude: [README.md, Gemfile, Gemfile.lock]
+keep_files: [CNAME]

@@ -30,7 +30,7 @@ twitter_username:
 github_username:  movpc
 
 # Build settings
-theme: minima
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 

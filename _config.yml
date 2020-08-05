@@ -55,5 +55,5 @@ plugins:
 #   - vendor/ruby/
 
 destination: docs
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude: [README.md, Gemfile, Gemfile.lock, serve]
 keep_files: [CNAME]

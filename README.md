@@ -13,3 +13,9 @@ This site uses the static site generator Jekyll
 
 - Built files are hosted in `docs/`
 - `./serve` is just a small bash wrapper for `bundle exec jekyll serve`
+
+## Resources
+
+- [Docs for beautiful-jekyll-theme](bundle info --path beautiful-jekyll-theme)
+- [How to override themes](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
+- [Liquid template language docs](https://shopify.github.io/liquid/)

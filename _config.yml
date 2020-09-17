@@ -21,18 +21,53 @@
 title: Notary Hub by MOVPC
 email: chris@chrisbay.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Notary Hub, by the Missouri Voter Protection Coalition. Connecting voters with notaries to ensure equal access to vote-by-mail and absentee voting in November 2020.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hub.chrisbay.net/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  movpc
+title-img: /assets/img/Notary_HubGradient_Tag.png
+
+navbar-links:
+  Find A Notary: "/find-a-notary"
+  Volunteer: "/volunteer"
+  Become A Notary: "/become-a-notary"
+  Get Connected: "/organizations"
+  About: "/about"
+
+social-network-links:
+  email: "chris@chrisbay.net"
+  facebook: ProtectMissouriVoters
+
+# for meta/SEO
+keywords: ""
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+# navbar-col: "#EAEAEA"
+# navbar-text-col: "#404040"
+# navbar-border-col: "#DDDDDD"
+# page-col: "#FFFFFF"
+# text-col: "#404040"
+# link-col: "#008AFF"
+# hover-col: "#0085A1"
+# footer-col: "#EAEAEA"
+# footer-text-col: "#777777"
+# footer-link-col: "#404040"
+
+site-css:
+  - "/assets/css/custom-styles.css"
+
+#site-js:
+#  - "/assets/js/custom-script.js"
+
+# Fill in your Google Analytics ID to track your website using Google Analytics
+#google_analytics: ""
 
 # Build settings
 theme: beautiful-jekyll-theme
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

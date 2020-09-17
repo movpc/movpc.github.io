@@ -1,0 +1,11 @@
+.intro-header .page-heading h1 {
+	font-size: 3rem;
+}
+
+.navbar-custom .navbar-brand-logo img {
+	height: 5rem;
+}
+
+#action-cards {
+    margin-top: 10rem;
+}

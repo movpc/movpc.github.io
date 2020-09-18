@@ -62,7 +62,7 @@ site-css:
 #  - "/assets/js/custom-script.js"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "UA-178440738-1"
 
 # Build settings
 theme: beautiful-jekyll-theme

@@ -3,6 +3,8 @@ layout: page
 title: Find A Notary
 ---
 
+
+
 Absentee ballots do NOT need to be notarized if either:
 
 - The voter is confined due to illness, or at risk of COVID-19, or

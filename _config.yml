@@ -20,9 +20,8 @@
 
 title: Notary Hub by MOVPC
 email: support@movpc.org
-description: >- # this means to ignore newlines until "baseurl:"
-  Notary Hub, by the Missouri Voter Protection Coalition. Connecting voters with notaries to ensure equal access to vote-by-mail and absentee voting in November 2020.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Notary Hub, by the Missouri Voter Protection Coalition. Connecting voters with notaries to ensure equal access to vote-by-mail and absentee voting in November 2020.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://notaryhub.movpc.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  movpc
@@ -40,7 +39,7 @@ social-network-links:
   facebook: ProtectMissouriVoters
 
 # for meta/SEO
-keywords: ""
+keywords: "MOVPC,voting rights,Missouri Voter Protection Coalition,ProtectMissouriVoters,notary,election"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 

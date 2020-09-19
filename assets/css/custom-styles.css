@@ -97,3 +97,13 @@ a {
 	}
 }
 
+.sign-up-button-container {
+	background-color: #efefef;
+	border-radius: 5px;
+	padding: 2rem;
+	margin-bottom: 2rem;
+}
+
+.sign-up-button-container h3 {
+	display: inline;
+}

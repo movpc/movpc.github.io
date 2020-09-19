@@ -21,11 +21,14 @@ All other absentee and mail-in ballots for the November 2020 election MUST be no
 
 Below is a list of independently run notary drives. Drives will be continually be added to the list as they are submitted to Notary Hub.
 
-Sign up to receive regular email updates about notary drives in your region. (Updates will be sent about once per week.)
-
-<p style="text-align:center;">
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#formModal">Receive Updates</button>
-</p>
+<div class="row sign-up-button-container">
+    <div class="col-sm-7">
+        <h3>Sign up to receive regular email updates</h3> about notary drives in your region. (Updates will be sent about once per week.)
+    </div>
+    <div class="col-sm-5 d-flex align-items-center">
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#formModal">Register for Updates</button>
+    </div>
+</div>
 
 <table class="table">
     <thead>

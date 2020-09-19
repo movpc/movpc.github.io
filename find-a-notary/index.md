@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: form-page
 title: Find A Notary
 ---
-
-
 
 Absentee ballots do NOT need to be notarized if either:
 

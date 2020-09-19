@@ -20,9 +20,9 @@ title: How Your Organization Can Help
   </div>
 </div>
 
-Submit info for your notary drive to be posted in our <a href="/find-a-notary/#upcoming-notary-drives">list of notary drives</a>. 
+Submit info for your notary drive, to be posted in our <a href="/find-a-notary/#upcoming-notary-drives">list of notary drives</a>.
 
-Info on your event will be shared with volunteer notaries and those looking to have a ballot notarized in your region.
+Info on your event will be shared with volunteer notaries as well as those in your region in need of a notary.
 
 *Note*: For feedback, questions, or corrections to submitted events, contact <a href="mailto:support@movpc.org">support@movpc.org</a>.
 

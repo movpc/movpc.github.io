@@ -56,8 +56,8 @@ navbar-text-col: "#FFFFFF"
 site-css:
   - "/assets/css/custom-styles.css"
 
-#site-js:
-#  - "/assets/js/custom-script.js"
+site-js:
+  - "/assets/js/custom-script.js"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 google_analytics: "UA-178440738-1"

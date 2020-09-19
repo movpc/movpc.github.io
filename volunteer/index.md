@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: form-page
 title: Volunteer To Notarize Ballots
 ---
 

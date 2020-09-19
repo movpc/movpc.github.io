@@ -6,10 +6,6 @@ body, h1, h2, h3, h4, h5, h6 {
 	color: #00567a;
 }
 
-a {
-	color: #00567a;
-}
-
 .btn {
 	background-color: #00567a;
 	border-radius: 10px;
@@ -106,4 +102,16 @@ a {
 
 .sign-up-button-container h3 {
 	display: inline;
+}
+
+.form-check {
+	padding-left: 0;
+}
+
+.form-check ul {
+	padding-left: 1.25rem;
+}
+
+.accordion .btn {
+	background: none;
 }

@@ -11,12 +11,13 @@
     margin-top: 10rem;
 }
 
-/* voting sub header */
+/* special voting header */
 .voting-header {
 	background-color: #a71c25;
 	color: #ffff;
 	padding-top: 2rem;
 	margin-top: 5.125rem;
+	margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
@@ -25,3 +26,26 @@
 		margin-top: 6.125rem;
 	}
 }
+
+.sub-header {
+	background-color: #efefef;	
+}
+
+.sub-header-content {
+	padding: 2rem;
+}
+
+.sub-header-content .btn {
+	margin-left: 2rem;
+}
+
+@media (min-width: 600px) {
+	.sub-header h2 {
+		display: inline;
+	}
+
+	.sub-header-content .btn {
+		margin-top: -1rem;
+	}
+}
+

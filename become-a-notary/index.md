@@ -178,7 +178,7 @@ Once you have applied, you have up to 90 days to complete the process.
 
 ### Does it cost anything?
 
-There are various costs associated with the process. The state of Missouri charges a $25 application fee. Surety bonds can be purchased for as little as $30, and notary supplies for as little as #30 total as well. Finally, county clerk offices typically charge a fee of no more than $10.
+There are various costs associated with the process. The state of Missouri charges a $25 application fee. Surety bonds can be purchased for as little as $30, and notary supplies for as little as $30 total. Finally, county clerk offices typically charge a fee of no more than $10.
 
 In total, you can expect the process of becoming a notary to cost about $100.
 

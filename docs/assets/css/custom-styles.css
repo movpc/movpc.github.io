@@ -1,6 +1,35 @@
+body, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.interior-header h1, h2, h3, h4, h5, h6 {
+	color: #00567a;
+}
+
+a {
+	color: #00567a;
+}
+
+.btn {
+	background-color: #00567a;
+	border-radius: 10px;
+	padding-left: 1.8rem;
+	padding-right: 1.8rem;
+}
+
+.btn:hover {
+	background-color: #228cb9;
+}
+
 .intro-header .page-heading h1 {
 	font-size: 3rem;
 	margin-top: 1rem;
+}
+
+.navbar-custom .navbar-nav .nav-link:hover {
+ color: #fff;
+ text-decoration: underline;
+ font-weight: bold;
 }
 
 .navbar-custom .navbar-brand-logo img {
@@ -8,23 +37,42 @@
 }
 
 #action-cards {
-    margin-top: 10rem;
+    margin-top: 2rem;
 }
 
-/* special voting header */
-.voting-header {
-	background-color: #a71c25;
-	color: #ffff;
+/* interior page headers */
+.intro-header {
+	background-color: #efefef;
 	padding-top: 2rem;
 	margin-top: 5.125rem;
 	margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
-	.voting-header {
+	.intro-header {
 		padding-top: 3rem;
 		margin-top: 6.125rem;
 	}
+}
+
+.interior-header {
+	padding-bottom: 2rem;
+}
+
+/* special voting header */
+.voting-header {
+	background-color: #a71c25;
+	color: #ffff;
+}
+
+.voting-header .btn {
+	background-color: #a71c25;
+	border-color: #fff;
+	margin-bottom: 1rem;
+}
+
+.voting-header .btn:hover {
+	background-color: #e14e58;
 }
 
 .sub-header {

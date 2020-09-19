@@ -37,12 +37,7 @@ Sign up to receive regular email updates about notary drives in your region. (Up
         </tr>
     </thead>
     <tbody>
-        <td>STL</td>
-        <td>LaunchCode</td>
-        <td>4811 Delmar Blvd, St. Louis, MO 63118</td>
-        <td>Sat 10/11</td>
-        <td>9:00 a.m. - Noon</td>
-        <td>n/a</td>
+        <td colspan="6"><em>No Events Scheduled</em></td>
     </tbody>
 </table>
 

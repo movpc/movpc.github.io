@@ -10,3 +10,18 @@
 #action-cards {
     margin-top: 10rem;
 }
+
+/* voting sub header */
+.voting-header {
+	background-color: #a71c25;
+	color: #ffff;
+	padding-top: 2rem;
+	margin-top: 5.125rem;
+}
+
+@media (min-width: 768px) {
+	.voting-header {
+		padding-top: 3rem;
+		margin-top: 6.125rem;
+	}
+}

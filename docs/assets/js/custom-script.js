@@ -7,10 +7,12 @@ $(function(){
     $('#events').DataTable();
 
     $('#select-region').change(function() {
-        $('#events').DataTable().column(0).search(
-            $('#select-region').val(),
-            false, //$('#col'+i+'_regex').prop('checked'),
-            false //$('#col'+i+'_smart').prop('checked')
-        ).draw();
+        $('#events').DataTable().column(0).search($('#select-region').val(), false, false).draw();
+    });
+
+    $('#input-date').change(function() {
+        var dateArray = $('#input-date').val().split('-');
+        var dateValue = dateArray.length === 1 ? "" : dateArray[1] + '/' + dateArray[2] + '/' + dateArray[0];
+        $('#events').DataTable().column(3).search(dateValue, false, false).draw();
     });
 });

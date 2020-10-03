@@ -29,8 +29,8 @@ Below is a list of independently run notary drives. Drives will be continually b
 </div>
 
 <div>
-    Select Region:
-    <select id="select-region">
+    <label for="select-region">Select Region:</label>
+    <select id="select-region" name="select-region">
         <option value="">All</option>
         <option>St. Louis Area</option>
         <option>Kansas City Area</option>
@@ -40,6 +40,10 @@ Below is a list of independently run notary drives. Drives will be continually b
         <option>Northeast</option>
         <option>Northwest</option>
     </select>
+</div>
+<div>
+  <label for="eventDate">Select Date:</label>
+  <input type="date" id="input-date" name="eventDate"/>
 </div>
 
 <table class="display" id="events">

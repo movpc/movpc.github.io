@@ -28,7 +28,7 @@ Below is a list of independently run notary drives. Drives will be continually b
     </div>
 </div>
 
-<table class="table">
+<table class="display" id="events">
     <thead>
         <tr>
             <th scope="col">Region</th>
@@ -203,4 +203,4 @@ Below is a list of independently run notary drives. Drives will be continually b
     </tbody>
 </table>
 
-If your organization is hosting a notary drive tdat is not listed here, tell us about by <a href="/organizations/">filling out tdis form</a>.
+If your organization is hosting a notary drive tdat is not listed here, tell us about by <a href="/organizations/">filling out this form</a>.

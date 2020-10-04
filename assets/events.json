@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "region": "Kansas City Area",
+            "organization": "First Christian Church of Independence",
+            "location": "125 S. Pleasant, Independence MO",
+            "date": "10/10/2020",
+            "time": "9:00AM to 12:00PM",
+            "contactInformation": "welfkwe@lwjflwjef.org",
+            "details" : "1121 Go over to my house and get my notes, cuz we need to check on the chickens."
+        },
+        {
+            "region": "St. Louis Area",
+            "organization": "First Christian Church of Independence",
+            "location": "125 S. Pleasant, Independence MO",
+            "date": "10/10/2020",
+            "time": "9:00AM to 12:00PM",
+            "contactInformation": "welfkwe@lwjflwjef.org",
+            "details" : " e ngweGo over to my house and get my notes, cuz we need to check on the chickens."
+        },
+        {
+            "region": "St. Louis Area",
+            "organization": "First Christian Church of Independence",
+            "location": "125 S. Pleasant, Independence MO",
+            "date": "10/10/2020",
+            "time": "9:00AM to 12:00PM",
+            "contactInformation": "welfkwe@lwjflwjef.org",
+            "details" : "98888Go over to my house and get my notes, cuz we need to check on the chickens."
+        },
+        {
+            "region": "Kansas City Area",
+            "organization": "2312First Christian Church of Independence",
+            "location": "66125 S. Pleasant, Independence MO",
+            "date": "10/11/2020",
+            "time": "9:00AM to 12:00PM",
+            "contactInformation": "welfkwe@lwjflwjef.org",
+            "details" : "Go over to my house and get my notes, cuz we need to check on the chickens."
+        },
+        {
+            "region": "Kansas City Area",
+            "organization": "Second Christian",
+            "location": "666 S. Pleasant, Independence MO",
+            "date": "10/15/2020",
+            "time": "11:00AM to 5:00PM",
+            "contactInformation": "welfkwe@lwjflwjef.org",
+            "details" : "Go over to my house and get my notes, cuz we need to check on the chickens."
+        }
+    ]
+}

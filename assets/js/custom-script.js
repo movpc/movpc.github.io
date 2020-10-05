@@ -12,13 +12,16 @@ $(function(){
                 "data":           null,
                 "defaultContent": ''
             },
-            { "data": "region", "orderData": [ 1, 4 ]},
+            { "data": "region", "orderData": [ 1, 4 ]}, // sorts by region then date
             { "data": "organization" },
             { "data": "location" },
-            { "data": "date" },
+            { "data": {
+                _: 'date.display',
+                sort: 'date.sort'}
+            },
             { "data": "time" }
         ],
-        "order": [[1, 'asc']]
+        "order": [[1, 'asc']] // default to be sorted by region column
     });
 
     $('#select-region').change(function() {

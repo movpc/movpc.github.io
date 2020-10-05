@@ -4,7 +4,16 @@
             "region": "Kansas City Area",
             "organization": "First Christian Church of Independence",
             "location": "125 S. Pleasant, Independence MO",
-            "date": "10/10/2020",
+            "date": {"display": "11/30/2020", "sort": "2020/11/30"},
+            "time": "9:00AM to 12:00PM",
+            "contactInformation": "welfkwe@lwjflwjef.org",
+            "details" : "1121 Go over to my house and get my notes, cuz we need to check on the chickens."
+        },
+        {
+            "region": "Kansas City Area",
+            "organization": "First Christian Church of Independence",
+            "location": "125 S. Pleasant, Independence MO",
+            "date": {"display": "10/10/2020", "sort": "2020/10/10"},
             "time": "9:00AM to 12:00PM",
             "contactInformation": "welfkwe@lwjflwjef.org",
             "details" : "1121 Go over to my house and get my notes, cuz we need to check on the chickens."
@@ -13,7 +22,7 @@
             "region": "St. Louis Area",
             "organization": "First Christian Church of Independence",
             "location": "125 S. Pleasant, Independence MO",
-            "date": "10/10/2020",
+            "date": {"display": "10/11/2020", "sort": "2020/10/11"},
             "time": "9:00AM to 12:00PM",
             "contactInformation": "welfkwe@lwjflwjef.org",
             "details" : " e ngweGo over to my house and get my notes, cuz we need to check on the chickens."
@@ -22,7 +31,7 @@
             "region": "St. Louis Area",
             "organization": "First Christian Church of Independence",
             "location": "125 S. Pleasant, Independence MO",
-            "date": "10/10/2020",
+            "date": {"display": "10/11/2020", "sort": "2020/10/11"},
             "time": "9:00AM to 12:00PM",
             "contactInformation": "welfkwe@lwjflwjef.org",
             "details" : "98888Go over to my house and get my notes, cuz we need to check on the chickens."
@@ -31,7 +40,7 @@
             "region": "Kansas City Area",
             "organization": "2312First Christian Church of Independence",
             "location": "66125 S. Pleasant, Independence MO",
-            "date": "10/11/2020",
+            "date": {"display": "10/13/2020", "sort": "2020/10/13"},
             "time": "9:00AM to 12:00PM",
             "contactInformation": "welfkwe@lwjflwjef.org",
             "details" : "Go over to my house and get my notes, cuz we need to check on the chickens."
@@ -40,7 +49,25 @@
             "region": "Kansas City Area",
             "organization": "Second Christian",
             "location": "666 S. Pleasant, Independence MO",
-            "date": "10/15/2020",
+            "date": {"display": "11/5/2020", "sort": "2020/11/05"},
+            "time": "11:00AM to 5:00PM",
+            "contactInformation": "welfkwe@lwjflwjef.org",
+            "details" : "Go over to my house and get my notes, cuz we need to check on the chickens."
+        },
+        {
+            "region": "Kansas City Area",
+            "organization": "Second Christian",
+            "location": "666 S. Pleasant, Independence MO",
+            "date": {"display": "11/8/2020", "sort": "2020/11/08"},
+            "time": "11:00AM to 5:00PM",
+            "contactInformation": "welfkwe@lwjflwjef.org",
+            "details" : "Go over to my house and get my notes, cuz we need to check on the chickens."
+        },
+        {
+            "region": "Kansas City Area",
+            "organization": "Second Christian",
+            "location": "666 S. Pleasant, Independence MO",
+            "date": {"display": "11/20/2020", "sort": "2020/11/20"},
             "time": "11:00AM to 5:00PM",
             "contactInformation": "welfkwe@lwjflwjef.org",
             "details" : "Go over to my house and get my notes, cuz we need to check on the chickens."

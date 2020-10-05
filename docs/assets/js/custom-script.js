@@ -24,11 +24,12 @@ $(function(){
         "order": [[1, 'asc']] // default to be sorted by region column
     });
 
-    $('#select-region').change(function() {
-        $('#events').DataTable().column(1).search($('#select-region').val(), false, false).draw();
+    $('#input-region').change(function() {
+        $('#events').DataTable().column(1).search($('#input-region').val(), false, false).draw();
     });
 
     $('#input-date').change(function() {
+        // input type=date values are stored as yyyy-mm-dd, we need to search by mm/dd/yyyy
         var dateArray = $('#input-date').val().split('-');
         var dateValue = dateArray.length === 1 ? "" : dateArray[1] + '/' + dateArray[2] + '/' + dateArray[0];
         $('#events').DataTable().column(4).search(dateValue, false, false).draw();
@@ -62,4 +63,19 @@ $(function(){
             '</tr>'+
         '</table>';
     }
+
+    // look for query params and then filter table if found
+    // TODO: make the data param work, as of now it does NOT
+    var parameters = location.search.replace("?", "").split("&");
+    parameters.forEach( function(parameter) {
+        if ( parameter && (parameter.indexOf("region") > -1 || parameter.indexOf("date") > -1) ) {
+            var nameValueArray = parameter.split("=");
+            var name = nameValueArray[0];
+            var value = nameValueArray[1];
+            console.log(name, value);
+            var input = $('#input-'+name);
+            input.val(decodeURI(value));
+            input.trigger("change");
+        }
+    });
 });

@@ -21,7 +21,7 @@ $(function(){
             },
             { "data": "time" }
         ],
-        "order": [[1, 'asc']] // default to be sorted by region column
+        "order": [[4, 'asc']] // default to be sorted by date column
     });
 
     $('#input-region').change(function() {

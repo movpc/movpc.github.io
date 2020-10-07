@@ -88,5 +88,5 @@ plugins:
 #   - vendor/ruby/
 
 destination: docs
-exclude: [README.md, Gemfile, Gemfile.lock, serve]
+exclude: [README.md, Gemfile, Gemfile.lock, serve, event-submissions.tsv, generate-json.py]
 keep_files: [CNAME]

@@ -23,6 +23,15 @@ events = []
 with open("event-submissions.tsv") as csvDataFile:
     csvReader = csv.reader(csvDataFile, delimiter="\t", quotechar='"')
     for row in csvReader:
+
+        dateArray = row[3].split('/')
+        dt = datetime.date(int(dateArray[2]), int(dateArray[0]), int(dateArray[1]))
+        now = datetime.date.today()
+
+        if now > dt:
+            print(dt, now)
+            continue
+
         event = {
             "region": row[2],
             "organization": row[1],
@@ -33,11 +42,10 @@ with open("event-submissions.tsv") as csvDataFile:
         street = row[4]
         event['location'] = street if "MO" in street else "{}, {}, MO {}".format(street, row[5], row[6])
 
-        dateArray = row[3].split('/')
-        dt = datetime.datetime(int(dateArray[2]), int(dateArray[0]), int(dateArray[1]))
+        
         event['date'] = {
             "display": row[3],
-            "sort": dt.timestamp()
+            "sort": datetime.datetime.combine(dt, datetime.datetime.min.time()).timestamp()
         }
         # apparently not all rows have this data
         if len(row) == 14:

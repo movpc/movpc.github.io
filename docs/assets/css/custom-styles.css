@@ -72,7 +72,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .sub-header {
-	background-color: #efefef;	
+	background-color: #efefef;
 }
 
 .sub-header-content {
@@ -114,4 +114,14 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .accordion .btn {
 	background: none;
+}
+
+/* Datatables */
+
+td.details-control {
+    background: url('../img/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('../img/details_close.png') no-repeat center center;
 }

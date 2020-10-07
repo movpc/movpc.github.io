@@ -3,21 +3,21 @@ layout: form-page
 title: Find A Notary
 ---
 
-Absentee ballots do NOT need to be notarized if eitder:
+Absentee ballots do NOT need to be notarized if either:
 
-- tde voter is confined due to illness, or at risk of COVID-19, or
-- tde voter is 65 years or older.
+- the voter is confined due to illness, or at risk of COVID-19, or
+- the voter is 65 years or older.
 
-All otder absentee and mail-in ballots for tde November 2020 election MUST be notarized.
+All other absentee and mail-in ballots for the November 2020 election MUST be notarized.
 
 ## Important Dates
 
-- **Wednesday, October 21** - Deadline for requests for absentee or mail-in ballots to be *received* by tde election autdority.
-- **Tuesday, November 3** - Election day. Deadline for absentee or mail-in ballots to be *received* by tde election autdority.
+- **Wednesday, October 21** - Deadline for requests for absentee or mail-in ballots to be *received* by the election authority.
+- **Tuesday, November 3** - Election day. Deadline for absentee or mail-in ballots to be *received* by the election authority.
 
 ## Upcoming Notary Drives
 
-Below is a list of independently run notary drives. Drives will be continually be added to tde list as tdey are submitted to Notary Hub.
+Below is a list of independently run notary drives. Drives will be continually be added to the list as they are submitted to Notary Hub.
 
 <div class="row sign-up-button-container">
     <div class="col-sm-7">

@@ -29,7 +29,7 @@ with open("event-submissions.tsv") as csvDataFile:
         now = datetime.date.today()
 
         if now > dt:
-            print(dt, now)
+            # print(dt, now)
             continue
 
         event = {

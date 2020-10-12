@@ -32,6 +32,7 @@ navbar-links:
   Volunteer: "/volunteer"
   Become A Notary: "/become-a-notary"
   Get Connected: "/organizations"
+  Resources: "/resources"
 
 social-network-links:
   email: "support@movpc.org"

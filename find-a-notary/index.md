@@ -30,6 +30,8 @@ More info from other organizations on finding a notary can be found on our [Reso
     </div>
 </div>
 
+*Click on ➕ to see volunteer contact info and additional event details*
+
 <div>
     <label for="input-region">Select Region:</label>
     <select id="input-region" name="input-region">

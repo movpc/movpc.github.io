@@ -24,7 +24,7 @@ Submit info for your notary drive, to be posted in our <a href="/find-a-notary/#
 
 Info on your event will be shared with volunteer notaries as well as those in your region in need of a notary.
 
-*Note*: For feedback, questions, or corrections to submitted events, contact <a href="mailto:support@movpc.org">support@movpc.org</a>.
+*Note*: For feedback, questions, or corrections to submitted events, contact <a href="mailto:support@movpc.org">support@movpc.org</a>. You may also email us directly with info on recurring events.
 
 <p><a href="#" data-toggle="modal" data-target="#regionsModal">MO Regions Map</a></p>
 
